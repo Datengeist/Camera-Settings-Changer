@@ -3,7 +3,7 @@
 Bevor man das Script ausführen kann muss man noch ein bisschen was installieren
 1. Natürlich muss [Python](https://www.python.org) und somit auch Pip installiert sein.
 2. öffnet die Eingabeaufforderung oder die Konsole mit `Strg` + `Ö`
-3. gebt dort pip install ` pip install opencv-python` ein um cv2 nutzen zu können
+3. gebt dort `pip install opencv-python` ein um cv2 nutzen zu können
 4. Passt den Code für euch euch an
     * zuerst wählt ihr eure Kamera aus in Zeile 4. 
         * 0 sollte schon passen, es sei den ihr habt mehrere Kameras, dann müsst ihr ausprobieren, welcher Indexplatz eure Kamera ist.
